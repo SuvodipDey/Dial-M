@@ -1,4 +1,5 @@
 # Dial-M: A Masking-based Framework for Dialogue Evaluation
+Official code repo of Dial-M metric for dialogue evaluation.
 
 ## Install dependencies
 python 3.10
