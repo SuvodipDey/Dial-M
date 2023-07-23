@@ -1,0 +1,8 @@
+torch==2.0.0
+transformers==4.27.1
+datasets==2.10.1
+scipy==1.10.0
+pandas
+yake
+nltk
+spacy
