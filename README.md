@@ -38,7 +38,7 @@ Finetune RoBERTa-base model on MLM task with different dialogue datasets.
 
 2. Dial-M without pre-training on dialogue datasets. Use roberta-base as the pre-trained model.
 ```console
-❱❱❱ python train_dialm.py -pre=roberta-base -path=<output_dialm_nopre> -epochs=10 -nopre
+❱❱❱ python train_dialm.py -pre=roberta-base -path=<output_dialm_nopre> -epochs=10 -no_pre
 ```
 
 ## Evaluation
