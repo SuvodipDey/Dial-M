@@ -26,7 +26,7 @@ Finetune RoBERTa-base model on MLM task with different dialogue datasets.
 
 ## Finetuning 
 ### Dial-M (Main model) 
-Model checkpoint: https://drive.google.com/drive/folders/1JymugdA4DCmXEpVZqk2YhitTOH84Ozl1?usp=drive_link
+Model checkpoint: https://drive.google.com/file/d/1lkuXjgxBfEbizs8jRVLLJg58k_msmjqy/view?usp=drive_link
 ```console
 ❱❱❱ python train_dialm.py -pre=<output_mlm> -path=<output_dialm> -epochs=10
 ```
