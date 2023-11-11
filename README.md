@@ -30,7 +30,7 @@ Model checkpoint: https://drive.google.com/file/d/1q9vim2_goV-sXW05sF7bgWOLuE61m
 ```console
 ❱❱❱ python train_dialm.py -pre=<output_mlm> -path=<output_dialm> -epochs=10
 ```
-Model checkpoint: https://drive.google.com/file/d/1lkuXjgxBfEbizs8jRVLLJg58k_msmjqy/view?usp=drive_link
+Model checkpoint: [drive_link](https://drive.google.com/file/d/1lkuXjgxBfEbizs8jRVLLJg58k_msmjqy/view?usp=drive_link)
 
 ### Models for Ablation Study
 1. Dial-M with random token masking instead of keyword masking.
