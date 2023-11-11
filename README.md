@@ -44,7 +44,7 @@ Model checkpoint: [drive_link2](https://drive.google.com/file/d/1lkuXjgxBfEbizs8
 ```
 
 ## Evaluation
-Evaluations are performed on USR (https://doi.org/10.18653/v1/2020.acl-main.64), PredictiveEngage (https://ojs.aaai.org/index.php/AAAI/article/view/6283), and HolisticEval (https://aclanthology.org/2020.acl-main.333/) datasets. The evaluation data is available in the "evaluation_data.zip" file. Unzip the file before running the evaluation scripts.
+Evaluations are performed on [USR](https://doi.org/10.18653/v1/2020.acl-main.64), [PredictiveEngage](https://ojs.aaai.org/index.php/AAAI/article/view/6283), and [HolisticEval](https://aclanthology.org/2020.acl-main.333/) datasets. The evaluation data is available in the "evaluation_data.zip" file. Unzip the file before running the evaluation scripts.
 
 ### Main Result
 Dial-M (with pre-training and finetuning)
