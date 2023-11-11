@@ -23,14 +23,14 @@ Finetune RoBERTa-base model on MLM task with different dialogue datasets.
 ```console
 ❱❱❱ python train_mlm.py -path=<output_mlm> -epochs=30
 ```
-Model checkpoint: https://drive.google.com/file/d/1q9vim2_goV-sXW05sF7bgWOLuE61mC6h/view?usp=drive_link
+Model checkpoint: [drive_link1](https://drive.google.com/file/d/1q9vim2_goV-sXW05sF7bgWOLuE61mC6h/view?usp=drive_link)
 
 ## Finetuning 
 ### Dial-M (Main model) 
 ```console
 ❱❱❱ python train_dialm.py -pre=<output_mlm> -path=<output_dialm> -epochs=10
 ```
-Model checkpoint: [drive_link](https://drive.google.com/file/d/1lkuXjgxBfEbizs8jRVLLJg58k_msmjqy/view?usp=drive_link)
+Model checkpoint: [drive_link2](https://drive.google.com/file/d/1lkuXjgxBfEbizs8jRVLLJg58k_msmjqy/view?usp=drive_link)
 
 ### Models for Ablation Study
 1. Dial-M with random token masking instead of keyword masking.
